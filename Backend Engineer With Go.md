@@ -11,9 +11,11 @@
 ## Required Skill
 
 - 3 years backend development
-- Experience working with Golang API server and databases
-- Experience with deployment in GCP
-- Experience with cloud structure design
+
+- Experience working with Golang Restful API Development
+- Experience working with DB, including MySql, MariaDB, Redis  
+- Experience in deployment to GCP Kubernetes
+- Experience in cloud structure design
 - Fluent English Speaking and Writing
 
 ### Plus
