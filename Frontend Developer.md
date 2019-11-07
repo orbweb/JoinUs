@@ -22,7 +22,7 @@
 
 ## Pay / Bonus
 
-- Competitive salary (1m+/yr NTD based on experience)  
+- Competitive salary
 - Patent bonus
 - Employee bonus
 - Stock option
