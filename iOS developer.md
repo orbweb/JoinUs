@@ -11,7 +11,7 @@
 ## Required Skill
 
 - 3 years iOS development
-- Experience working with Objective-C, Swift 3, 4
+- Experience working with Objective-C, Swift 3, 4, 5
 - Experience with developing SDK
 - Experience on managing/releasing App is required
 
@@ -41,7 +41,6 @@
 1. CV review
 2. Tapei interview (with coding test)
 3. CTO interview (skype, english)
-4. CEO interview (skype, english)
 
 ## Contact Window
 
