@@ -21,8 +21,8 @@
 ### Plus
 
 - Open Source Project, if any
+- Familiar with Imapge processing in Open CV or Machine Learning
 - Familiar with Video Streaming
-- Familiar with Machine Learning
 
 ## Pay / Bonus
 
@@ -40,10 +40,9 @@
 
 ## Our interview procedure
 
-1. CV review, Offsite Code Test
+1. CV review, Offsite Project Test
 2. Tapei interview (background measurement)
 3. CTO interview (skype, english)
-4. CEO interview (skype, english)
 
 ## Contact Window
 
