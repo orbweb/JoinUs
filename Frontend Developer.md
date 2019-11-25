@@ -38,9 +38,8 @@
 ## Our interview procedure
 
 1. CV review
-2. Tapei interview (code test)
+2. Tapei interview (onsite code test: ES5,6; css3; algorithm)
 3. CTO interview (skype, english)
-4. CEO interview (skype, english)
 
 ## Contact Window
 
