@@ -18,7 +18,7 @@
 
 - Fluent English Speaking and Writing
 - Dev/Op, RD experience
-- LPIC Level 2
+- LPIC Level 3
 - Side Project
 
 ## Pay / Bonus
