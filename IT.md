@@ -38,7 +38,7 @@
 ## Our interview procedure
 
 1. Tapei interview (background measurement)
-2. CTO interview (skype, english)
+2. CEO interview
 
 ## Contact Window
 
