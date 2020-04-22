@@ -11,14 +11,37 @@
 ## Basic Skill
 
 - 3 years front-end experience
-- Experience in working and manage release flow with modern front-end framework (React、Angular)
+- Familiar with rxjs
+- Experience in web releasing flow using webpack
+  - Asset bundling
+  - Loading time optimization
+  - Multiple environments settings
 - Experience in collaborating with designer to write down correct CSS classes to achieve responsive design.
+  - Familiar with Bulma or Bootstrap
+  - Experience in material design
+- Experience in working with one of following front-end framework
+  - React
+    - Familiar with Redux
+  - Angular
+    - Familiar with Ngrx
 - Experience in collaborating with backend to complete entire application flow.
+  - Authentication integration
+  - Websocket integration
+  - HTTP Cache-Control Protocol
+  - Load more scrolling
+  - Drag and Drop functions
+  - HLS player integration eg. hls.js
+- Experience in customizing html5 player experience using player like https://plyr.io/ or other player.
+  - WebVTT support for video preview thumbnails
+  - Overlay color rectangles on top of player during playback
+  - HTML5 Video Event handling
 
 ### Plus
 
-- Open Source Project, if any
+- Familiar with type-script
+- Familiar with grpc-web
 - Familiar with backend
+- Familiar with video codec and html5 media player
 
 ## Pay / Bonus
 
